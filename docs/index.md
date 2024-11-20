@@ -23,6 +23,8 @@ Concepts will be grounded in a range of real-world robotic systems to highlight 
 |              | 12 | **Examples part 2 and wrap-up:** search and rescue, infrastructure inspection, active research areas, educational pathways at CMU |
 |              | 13 | **Lab visits:** visit robotics research labs at CMU |
 
+Note: the last lecture (#14) is reserved for an in-class exam. If the mini has 13 lectures, we will skip one of the application lectures.
+
 # Assessment and Grading:
 
 The class has 3 problem sets (60%), in-class 10-minute quizzes (20%), and an in-class exam (20%).
