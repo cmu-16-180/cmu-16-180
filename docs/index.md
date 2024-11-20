@@ -20,7 +20,7 @@ Concepts will be grounded in a range of real-world robotic systems to highlight 
 |       |  9 | **Mechanisms:** joints, linkages, power transmission, mechanism models |
 |       | 10 | **Interactions:** forceful interactions, human robot interaction (HRI) |
 | Applications | 11 | **Examples part 1:** self-driving cars, space exploration, health care, agriculture |
-|              | 12 | **Examples part 2 and wrap-up: search and rescue, infrastructure inspection, active research areas, educational pathways at CMU |
+|              | 12 | **Examples part 2 and wrap-up:** search and rescue, infrastructure inspection, active research areas, educational pathways at CMU |
 |              | 13 | **Lab visits:** visit robotics research labs at CMU |
 
 # Assessment and Grading:
