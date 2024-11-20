@@ -1,13 +1,11 @@
 ---
 ---
 
-# CMU 16-180 -- Concepts of Robotics -- Mini
-
-## Overview
+# Overview
 This course will introduce students to the main foundational concepts and techniques in robotics, including perception, cognition, and action.
 Concepts will be grounded in a range of real-world robotic systems to highlight common robotics components such as sensor selection, sensor processing, fusion, path-planning algorithms, mechanical design, reasoning about environmental interactions, and systems integration. The calls will discuss applications of robotics along with methods for mapping application requirements to design choices for robotics systems. The class will introduce students to ethical issues surrounding robotics, including considerations around potential future uses of robotics technologies. The course will contain programming and written assignments designed to give students a feel for the practical aspects of robot sensing, planning, and actuation.
 
-## Schedule
+# Schedule
 
 | Topic Area | Lecture No | Topic |
 | ---------- | ---------- | ----- |
@@ -25,6 +23,6 @@ Concepts will be grounded in a range of real-world robotic systems to highlight 
 |              | 12 | **Examples part 2 and wrap-up: search and rescue, infrastructure inspection, active research areas, educational pathways at CMU |
 |              | 13 | **Lab visits:** visit robotics research labs at CMU |
 
-## Assessment and Grading:
+# Assessment and Grading:
 
 The class has 3 problem sets (60%), in-class 10-minute quizzes (20%), and an in-class exam (20%).
