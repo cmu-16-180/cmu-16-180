@@ -8,7 +8,7 @@ Concepts will be grounded in a range of real-world robotic systems to highlight 
 # Schedule
 
 | Topic Area | Lecture No | Topic |
-| ---------- | ---------- | ----- |
+| :--------- | ---------: | :---- |
 |       |  1 | **Course Overview:** what is a robot, robot system components, required skills |
 | Sense |  2 | **Sensing overview:** sensors used in robotics (encoders, GPS, inertial, ranging, tactile, acoustic) |
 |       |  3 | **Vision sensors:** cameras, RGB+depth, and LIDAR |
