@@ -28,3 +28,10 @@ Note: the last lecture (#14) is reserved for an in-class exam. If the mini has 1
 # Assessment and Grading:
 
 The class has 3 problem sets (60%), in-class 10-minute quizzes (20%), and an in-class exam (20%).
+
+# Syllabus
+
+* [2025 Spring Mini 3 Syllabus (January to Spring Break)](https://github.com/cmu-16-180/cmu-16-180.github.io/releases/download/2025-spring/2025_16180_Concepts_of_Robotics_Syllabus-Mini-3.pdf)
+* [2025 Spring Mini 4 Syllabus (Spring Break to Summer)](https://github.com/cmu-16-180/cmu-16-180.github.io/releases/download/2025-spring/2025_16180_Concepts_of_Robotics_Syllabus-Mini-4.pdf)
+
+
